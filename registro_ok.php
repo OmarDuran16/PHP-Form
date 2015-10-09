@@ -37,6 +37,29 @@
 							<h4>Correo electrónico</h4>
 							<p class="lead"><?=$varEmail;?></p>
 						</div>
+						<div class="panel-body">
+							<h4>password</h4>
+							<p class="lead"><?=$varPassword;?></p>
+						</div>
+
+						<div class="panel-body">
+							<h4>Nombre </h4>
+							<p class="lead"><?=$varNombre;?></p>
+						</div>
+						<div class="panel-body">
+							<h4>Apellido </h4>
+							<p class="lead"><?=$varApellido;?></p>
+						</div>
+						<div class="panel-body">
+							<h4>Sexo </h4>
+							<p class="lead"><?=$varSexo;?></p>
+						</div>
+
+						<div class="panel-body">
+							<h4>Pais </h4>
+							<p class="lead"><?=$varPais;?></p>
+						</div>
+
 
 						<div class="panel-footer">
 							<small>
